@@ -1,2 +1,2 @@
-Gavin Bosgraf Gavin Bosgraf
+Gavin Bosgraf
 CS2400 section 107
